@@ -1,4 +1,4 @@
-# techcorp
+# Techcorp
 
 Cenário: Você foi contratado por uma empresa fictícia chamada TechCorp para gerenciar o banco de dados de seus funcionários e projetos. Sua tarefa é criar e manipular tabelas no PostgreSQL para organizar as informações da empresa.
 
